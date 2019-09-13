@@ -101,7 +101,7 @@ var answersIncorrect = 0;
 
 var intervalId;
 var timerRunning = false;
-var time = 10;
+var time = 100;
 
 //Hide the content before pressing start button
 $("#content").hide();
